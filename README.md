@@ -116,7 +116,7 @@ Welcome to the repository for learning about Large Language Models (LLMs) and Re
    ```
 2. **Navigate to the Project Directory:**
    ```bash
-   cd learning-llm-and-rag
+   cd learn-llm-and-rag
    ```
 3. **Install Dependencies:**
    ```bash
