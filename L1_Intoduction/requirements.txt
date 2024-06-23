@@ -1,0 +1,5 @@
+tqdm
+scikit-learn
+jupyter
+pandas
+openai
